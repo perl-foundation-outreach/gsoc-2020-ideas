@@ -11,6 +11,8 @@ contact the organization administrators and just ask!
 ## Project Ideas
 
 - [Pod6 rendering on GitHub/GitLab](https://github.com/perl-foundation-outreach/gsoc-2020-ideas/blob/master/raku/pod6-rendering-on-github-gitlab.md)
+- [Documentation tooling 2.0](raku/docs.md).
+- [Raku community modules](raku/community-modules.md).
 
 ## Adding ideas
 
