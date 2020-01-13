@@ -30,3 +30,7 @@ page](https://google.github.io/gsocguides/mentor/defining-a-project-ideas-list).
 When you use the template you should be good to go. If you have an idea and
 want to discuss it before adding anything, [discuss it here or add a new
 issue](https://github.com/perl-foundation-outreach/gsoc-2020-ideas/issues/1).
+
+## Last year's site
+
+Last year's site is [here](https://perl-foundation-outreach.github.io/ideas). 
