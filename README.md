@@ -17,7 +17,7 @@ contact the organization administrators and just ask!
 ## Adding ideas
 
 To add project ideas create a pull request for this repository.  Just copy the
-[project idea template](project_template.md) into the perl5 or perl6 directory
+[project idea template](project_template.md) into the [`perl`](perl) or [`raku`](raku) directory
 (or create a new one if it does not fit exactly in any of them) and fill it
 out. Use a separate file for each project idea.  Please also add your project
 idea to the *Project ideas* list above, itemized. If you have an idea but no
