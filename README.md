@@ -1,6 +1,6 @@
 # Google Summer of Code ideas page for Perl/Raku projects
 
-This repository lists GSoC project ideas for Perl and related projects.
+This repository lists [GSoC](https://summerofcode.withgoogle.com/how-it-works/#timeline) project ideas for Perl and related projects.
 
 If you are a student and have a project idea not listed below, feel free to
 contact the organization administrators and just ask!

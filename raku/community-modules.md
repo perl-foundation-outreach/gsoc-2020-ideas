@@ -6,7 +6,7 @@ Description
 
 Some modules in the Perl 6 ecosystem have
 been
-[adopted by the community](https://github.com/perl6-community-modules/) due
+[adopted by the community](https://github.com/raku-community-modules/) due
 to different reasons, inclusing donation by the original author. In
 many cases, they are modules used extensively by other modules and
 form the foundation of many applications; however, since they are
