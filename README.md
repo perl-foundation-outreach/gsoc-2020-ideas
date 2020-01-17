@@ -15,6 +15,7 @@ contact the organization administrators and just ask!
 - [Documentation tooling 2.0](raku/docs.md).
 - [Raku community modules](raku/community-modules.md).
 - [Randas, a Raku data analysis library](raku/randas.md).
+- [Rakumods, a Raku module inspection utility](raku/rakumods.md)
 
 ## Adding ideas
 
