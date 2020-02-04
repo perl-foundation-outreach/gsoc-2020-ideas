@@ -17,6 +17,10 @@ contact the organization administrators and just ask!
 - [Raku community modules](raku/community-modules.md).
 - [Randas, a Raku data analysis library](raku/randas.md).
 - [Rakumods, a Raku module inspection utility](raku/rakumods.md)
+- [An implementation of gRPC in Raku](raku/gRPC.md)
+- Add [missing encodings to MoarVM](raku/missingencodings.md), the
+  Raku virtual machine.
+- Add [support for 1-bit, 2-bit and 4-bit native unsigned integers](raku/nibbles.md).
 
 ## Adding ideas
 

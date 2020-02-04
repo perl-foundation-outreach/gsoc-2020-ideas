@@ -4,7 +4,7 @@ Upgrade high-priority community modules
 Description
 -----------
 
-Some modules in the Perl 6 ecosystem have
+Some modules in the Raku ecosystem have
 been
 [adopted by the community](https://github.com/raku-community-modules/) due
 to different reasons, inclusing donation by the original author. In
@@ -64,7 +64,7 @@ terminal user interfaces.
 Required skills
 ---------------
 
-Knowledge, or willing to learn, Perl 6, including handling Perl 6 grammars.
+Knowledge, or willing to learn, Raku, including handling Raku grammars.
 
 
 Rating
