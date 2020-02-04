@@ -25,4 +25,4 @@ I think this is a hard project, as it would require deep internals MoarVM knowle
 Possible mentors
 ----------------
 
-Not me.
+Liz Mattijsen @lizmat

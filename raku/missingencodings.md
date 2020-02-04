@@ -169,4 +169,4 @@ I think this is a medium hard project, as many encodings *are* already supported
 Possible mentors
 ----------------
 
-Not me.
+Liz Mattijsen @lizmat
