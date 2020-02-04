@@ -6,7 +6,7 @@ Description
 
 gRPC is a protocol that's used extensively, by itself or as part of
 services such as etcd. For the time being, there's no Raku module that
-offers a high-levle interface to it.
+offers a high-level interface to it.
 
 In this project, the student would be expected to create and release
 to the Raku ecosystem a gRPC module, along with example on how to work
