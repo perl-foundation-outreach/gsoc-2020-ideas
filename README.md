@@ -35,6 +35,28 @@ When you use the template you should be good to go. If you have an idea and
 want to discuss it before adding anything, [discuss it here or add a new
 issue](https://github.com/perl-foundation-outreach/gsoc-2020-ideas/issues/1).
 
+## Perl and Raku mailing lists
+
+* Here's a list of [Perl mailing lists](https://lists.perl.org/),
+  with
+  [this perl specific for beginners](https://www.nntp.perl.org/group/perl.beginners/).
+*
+  [Raku users gather in these mailing lists](https://raku.org/archive/lists/),
+  with
+  [perl6-users](https://www.nntp.perl.org/group/perl.perl6.users/) the
+  main general-purpose list.
+  
+## Perl and Raku IRC sites
+ 
+* Perl has its own IRC hosting site,
+  with
+  [this list of channels](http://www.irc.perl.org/channels.html). `#perl-help`
+  is the best place for beginners.
+* Raku has a series
+  of
+  [IRC channels, with bots attached](https://raku.org/community/irc),
+  with `#raku` on Freenode being the best channel for beginners.
+
 ## Last year's site
 
 Last year's site is [here](https://perl-foundation-outreach.github.io/ideas). 
