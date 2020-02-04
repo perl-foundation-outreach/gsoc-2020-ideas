@@ -11,7 +11,7 @@ the tooling is that it's working, but little else.
 During Google Summer of Code of 2019, Antonio Gámiz did a good job of
 overhauling the documentation system, which is now much faster and
 efficient. At the same time, Joel changed the command line utility
-p6doc so that it worked well with this new system. As a resulxt,
+p6doc so that it worked well with this new system. As a result,
 [Documentable](https://github.com/perl6/Documentable), which is
 currently used for generating and indexing the documentation, was
 produced. There are a number of issues in that milestone that have not
