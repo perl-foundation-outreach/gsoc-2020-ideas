@@ -40,8 +40,7 @@ issue](https://github.com/perl-foundation-outreach/gsoc-2020-ideas/issues/1).
 * Here's a list of [Perl mailing lists](https://lists.perl.org/),
   with
   [this perl specific for beginners](https://www.nntp.perl.org/group/perl.beginners/).
-*
-  [Raku users gather in these mailing lists](https://raku.org/archive/lists/),
+* [Raku users gather in these mailing lists](https://raku.org/archive/lists/),
   with
   [perl6-users](https://www.nntp.perl.org/group/perl.perl6.users/) the
   main general-purpose list.
