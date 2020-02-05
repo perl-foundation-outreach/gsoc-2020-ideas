@@ -10,18 +10,23 @@ contact the organization administrators and just ask!
 
 ## Project Ideas
 
-* [Perl DBI: DBD::MariaDB Prepared Statements, Async, Test Suite](perl/DBD-MariaDB.md)
-* [Perl PSGI protocol for HTTP::Tiny](perl/HTTP-Tiny-PSGI.md)
-* [Improving Open Food Facts architecture and code quality](perl/Open-Food-Facts.md)
-- [Pod6 rendering on GitHub/GitLab](https://github.com/perl-foundation-outreach/gsoc-2020-ideas/blob/master/raku/pod6-rendering-on-github-gitlab.md)
-- [Documentation tooling 2.0](raku/docs.md).
-- [Raku community modules](raku/community-modules.md).
-- [Randas, a Raku data analysis library](raku/randas.md).
-- [Rakumods, a Raku module inspection utility](raku/rakumods.md)
-- [An implementation of gRPC in Raku](raku/gRPC.md)
+*
+  [Perl DBI: DBD::MariaDB Prepared Statements, Async, Test Suite](perl/DBD-MariaDB.md) (*Perl*).
+* [Perl PSGI protocol for HTTP::Tiny](perl/HTTP-Tiny-PSGI.md) (*Perl*).
+*
+  [Improving Open Food Facts architecture and code quality](perl/Open-Food-Facts.md) (*Perl*).
+-
+  [Pod6 rendering on GitHub/GitLab](https://github.com/perl-foundation-outreach/gsoc-2020-ideas/blob/master/raku/pod6-rendering-on-github-gitlab.md) [*Raku*].
+- [Documentation tooling 2.0](raku/docs.md) [*Raku*].
+- [Raku community modules](raku/community-modules.md)  [*Raku*].
+- [Randas, a Raku data analysis library](raku/randas.md)  [*Raku*].
+- [Rakumods, a Raku module inspection utility](raku/rakumods.md)  [*Raku*].
+- [An implementation of gRPC in Raku](raku/gRPC.md)  [*Raku*].
 - Add [missing encodings to MoarVM](raku/missingencodings.md), the
-  Raku virtual machine.
-- Add [support for 1-bit, 2-bit and 4-bit native unsigned integers](raku/nibbles.md).
+  *Raku* virtual machine.
+- Add
+  [support for 1-bit, 2-bit and 4-bit native unsigned integers](raku/nibbles.md) in *Raku*.
+- [JMG-tooling](raku/JMG-tooling), [*Raku*]. 
 
 ## Adding ideas
 
