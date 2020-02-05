@@ -1,71 +1,84 @@
-# Google Summer of Code ideas page for Perl/Raku projects
+![GSoC Logo](https://summerofcode.withgoogle.com/static/img/summer-of-code-logo.svg)
 
-This repository lists [GSoC](https://summerofcode.withgoogle.com/how-it-works/#timeline) project ideas for Perl and related projects.
+# Google Summer of Code ideas page for Perl and Raku projects
 
-If you are a student and have a project idea not listed below, feel free to
-contact the organization administrators and just ask!
+<img src="img/tpf_logo_transparent.png" width="300px" align="right" alt="TPF">
 
-* [JJ Merelo](https://github.com/JJ)
-* Makoto Nozaki
+## *Mentors!* Head over to the [Perlyglot Mentors Guide](mentors-guide.md)!
+
+
+The Perl Foundation participates in [Google Summer of Code](https://summerofcode.withgoogle.com/) 2020.
+This page lists project ideas for Perl, Raku and its related projects.
+
 
 ## Project Ideas
 
-*
-  [Perl DBI: DBD::MariaDB Prepared Statements, Async, Test Suite](perl/DBD-MariaDB.md) (*Perl*).
-* [Perl PSGI protocol for HTTP::Tiny](perl/HTTP-Tiny-PSGI.md) (*Perl*).
-*
-  [Improving Open Food Facts architecture and code quality](perl/Open-Food-Facts.md) (*Perl*).
--
-  [Pod6 rendering on GitHub/GitLab](https://github.com/perl-foundation-outreach/gsoc-2020-ideas/blob/master/raku/pod6-rendering-on-github-gitlab.md) [*Raku*].
-- [Documentation tooling 2.0](raku/docs.md) [*Raku*].
-- [Raku community modules](raku/community-modules.md)  [*Raku*].
-- [Randas, a Raku data analysis library](raku/randas.md)  [*Raku*].
-- [Rakumods, a Raku module inspection utility](raku/rakumods.md)  [*Raku*].
-- [An implementation of gRPC in Raku](raku/gRPC.md)  [*Raku*].
-- Add [missing encodings to MoarVM](raku/missingencodings.md), the
-  *Raku* virtual machine.
-- Add
-  [support for 1-bit, 2-bit and 4-bit native unsigned integers](raku/nibbles.md) in *Raku*.
-- [JMG-tooling](raku/JMG-tooling), [*Raku*]. 
+- [Perl Open Food Facts architecture and code quality](perl/Open-Food-Facts.md)
+- [Perl DBD::MariaDB Prepared Statements, Async, Test Suite](perl/DBD-MariaDB.md)
+- [Perl PSGI protocol for HTTP::Tiny](perl/HTTP-Tiny-PSGI.md)
+- [Raku Pod6 rendering on GitHub/GitLab](raku/pod6-rendering-on-github-gitlab.md)
+- [Raku Documentation tooling 2.0](raku/docs.md)
+- [Raku Community modules](raku/community-modules.md)
+- [Raku Data analysis library](raku/randas.md)
+- [Raku Module inspection utility](raku/rakumods.md)
+- [Raku gRPC](raku/gRPC.md)
+- [Raku Add missing encodings to MoarVM](raku/missingencodings.md)
+- [Raku Native unsigned integers](raku/nibbles.md)
+- [Raku AST Analysis](raku/JMG-tooling.md)
 
-## Adding ideas
 
-To add project ideas create a pull request for this repository.  Just copy the
-[project idea template](project_template.md) into the [`perl`](perl) or [`raku`](raku) directory
-(or create a new one if it does not fit exactly in any of them) and fill it
-out. Use a separate file for each project idea.  Please also add your project
-idea to the *Project ideas* list above, itemized. If you have an idea but no
-mentor or the idea is not entirely fleshed out, add it to *incomplete project
-ideas* and try to complete it. Ideas without a mentor will have to be removed
-before this list is submitted to Google.
+## How to participate
 
-Project ideas need to meet certain criteria described [on this Google
-page](https://google.github.io/gsocguides/mentor/defining-a-project-ideas-list).
-When you use the template you should be good to go. If you have an idea and
-want to discuss it before adding anything, [discuss it here or add a new
-issue](https://github.com/perl-foundation-outreach/gsoc-2020-ideas/issues/1).
+Each project idea lists the mentors with their contact information at the end.
 
-## Perl and Raku mailing lists
+We encourage you to get in contact with the mentors and the Perl / Raku community as early as possible.
+Talking with the mentors about the projects you are interested in is the fastest way to get a good
+understanding of the project. And that is the most important step for a good application and successful
+project.
 
-* Here's a list of [Perl mailing lists](https://lists.perl.org/),
-  with
-  [this Perl specific list for beginners](https://www.nntp.perl.org/group/perl.beginners/).
-* [Raku users gather in these mailing lists](https://raku.org/archive/lists/),
-  with
-  [perl6-users](https://www.nntp.perl.org/group/perl.perl6.users/) the
-  main general-purpose list.
-  
-## Perl and Raku IRC sites
- 
-* Perl has its own IRC hosting site,
-  with
-  [this list of channels](http://www.irc.perl.org/channels.html). `#perl-help`
-  is the best place for beginners.
-* Raku has a series
-  of
-  [IRC channels, with bots attached](https://raku.org/community/irc),
-  with `#raku` on Freenode being the best channel for beginners.
+If you are a student and have a project idea not listed above, feel free to
+contact the organization administrators and just ask!
 
-## Last year's site
+Google offers some very good documentation for Summer of Code. If you haven't already you should really
+[head over to it](https://summerofcode.withgoogle.com/). Make sure you don't miss
 
-Last year's site is [here](https://perl-foundation-outreach.github.io/ideas). 
+- [How it works](https://summerofcode.withgoogle.com/how-it-works/)
+- the [FAQ](https://developers.google.com/open-source/gsoc/faq)
+- and the [Student Guide](https://google.github.io/gsocguides/student/)
+
+
+## Contact the Raku community
+
+In general the Raku community is most active on IRC. Just drop by on the
+[#raku](https://webchat.freenode.net/#raku) Freenode channel and say Hello!
+
+If you prefer email, head over to the [mailing lists](https://raku.org/archive/lists/).
+The [perl6-users mailing list](https://www.nntp.perl.org/group/perl.perl6.users/) is the one you
+probably want to use.
+
+
+## Contact the Perl community
+
+Here's a list of [Perl mailing lists](https://lists.perl.org/), with
+[this Perl specific list for beginners](https://www.nntp.perl.org/group/perl.beginners/).
+Perl has its own IRC hosting site, with [this list of channels](http://www.irc.perl.org/channels.html).
+`#perl-help` is the best place for beginners.
+
+
+## Contact the Orgainzation Administrators
+
+- JJ Merelo (jjmerelo@gmail.com / [GitHub](https://github.com/JJ))
+- Makoto Nozaki (makoto@perlfoundation.org)
+- Patrick Böker (patrickb@cpan.org / [GitHub](https://github.com/patrickbkr))
+
+
+## Previous GSoCs
+
+- [2019](https://perl-foundation-outreach.github.io/ideas)
+
+
+## Mentors
+
+We have a dedicated guide for people interested in mentoring a Perl or Raku project:
+[Perlyglot Mentors Guide](mentors-guide.md).
+
