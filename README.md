@@ -4,7 +4,7 @@
 
 <img src="img/tpf_logo_transparent.png" width="300px" align="right" alt="TPF">
 
-## *Mentors!* Head over to the [Perlyglot Mentors Guide](mentors-guide.md)!
+<!-- ## *Mentors!* Head over to the [Perlyglot Mentors Guide](mentors-guide.md)! -->
 
 
 The Perl Foundation participates in [Google Summer of Code](https://summerofcode.withgoogle.com/) 2020.
