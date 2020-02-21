@@ -47,4 +47,4 @@ Possible mentors
 
  - Dean H (dean@fragfest.com.au / [CPAN](https://metacpan.org/author/DJZORT) / [GitHub](https://github.com/djort))
  - Kieran D (diment@gmail.com / [CPAN](https://metacpan.org/author/ZARQUON) / [GitHub](https://github.com/singingfish))
- - Tom M (tmetro@cpan.org / [CPAN](https://metacpan.org/author/TMETRO) / [GitHub](https://github.com/tmetro)
+ - Tom M (tmetro@cpan.org / [CPAN](https://metacpan.org/author/TMETRO) / [GitHub](https://github.com/tmetro))
